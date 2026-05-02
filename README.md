@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Abderrahmane
 
-<!--
-**abdo-mej/abdo-mej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student at EPISEN (France)  
+💻 Passionate about software development  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java, PHP, JavaScript
+- React, Laravel
+- SQL, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- SmartClinic (full-stack medical system)
+- Memory Keeper (C++ Qt app)
+- Car Rental Management (web app)
+
+## 📫 Contact
+- LinkedIn: linkedin.com/in/abderrahmane-mejdoubi
