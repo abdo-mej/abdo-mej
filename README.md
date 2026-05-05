@@ -23,31 +23,58 @@
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
-### 💻 Langages
+### 💻 Languages
 - Java
 - PHP
-- JavaScript
+- JavaScript (ES6+)
 - C#
+- C++
 - SQL
+- Python (Data & AI basics)
 
-### ⚙️ Frameworks & Technologies
+---
+
+### ⚙️ Frameworks & Tools
 - React.js
 - Laravel
 - Node.js
 - .NET / WPF
 - Qt (C++)
+- Bootstrap / Tailwind CSS
 
-### 🗄️ Bases de données
+---
+
+### 🗄️ Databases
 - MySQL
 - SQL Server
+- SQLite
+- PostgreSQL (basics)
 
-### 🧠 Autres compétences
-- UI/UX Design
-- Architecture logicielle
-- Git / GitHub
-- Déploiement (Vercel, Hosting)
+---
+
+### 🧠 Skills
+- Full-Stack Development
+- REST API Development
+- Software Architecture & UML
+- UI/UX Design (Figma)
+- Debugging & Testing
+
+---
+
+### 🔧 Tools & Workflow
+- Git & GitHub
+- Agile / Scrum (Trello)
+- API Testing (Postman)
+- Deployment (Vercel, Hosting)
+
+---
+
+### ⚡ Additional Knowledge
+- IoT (MQTT, Node-RED, Grafana, InfluxDB)
+- Data Analysis (Pandas, Matplotlib)
+- Machine Learning Basics (Scikit-learn)
 
 ---
 
@@ -110,7 +137,7 @@ Je recherche une **alternance en développement logiciel / systèmes d'informati
 ## 📫 Contact
 
 - 🔗 LinkedIn : https://linkedin.com/in/abderrahmane-mejdoubi
-- 📧 Email : (ajoute ton email ici)
+- 📧 Email : abderrahmane.mejdo@gmail.com
 
 ---
 
